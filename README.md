@@ -6,7 +6,7 @@
 
 A basic RESTful API built using **Node.js** and **Express.js** to manage a collection of Hollywood movies. This backend application allows users to **create**, **read**, **update**, and **delete** movie records from a simple in-memory database. Ideal for learning CRUD operations and understanding REST principles.
 
-### NOTE: The code is in index.js
+***📄NOTE: The code is in index.js***
 
 ---
 
